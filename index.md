@@ -1,7 +1,7 @@
 # Karalyn Lacey
 
-! [Karalyn photo] 
-(https://www.peoplelab.hks.harvard.edu/wp-content/uploads/2015/12/karayln-lacey-2018.png)
+![[Karalynphoto]
+(https://www.peoplelab.hks.harvard.edu/wp-content/uploads/2015/12/karayln-lacey-2018.png)]
 
 ## About Karalyn
 
@@ -34,4 +34,4 @@ wants and needs.
 
 ## Quick Links
 
-[Projects] (https://karalynlacey.github.io/projects)
+[[Projects](https://karalynlacey.github.io/projects)]
