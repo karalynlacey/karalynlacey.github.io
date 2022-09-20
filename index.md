@@ -33,4 +33,4 @@ wants and needs.
 
 ## Quick Links
 
-[[Projects](https://karalynlacey.github.io/projects)]
+[Projects](https://karalynlacey.github.io/projects)
