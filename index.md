@@ -1,9 +1,9 @@
-#Karalyn Lacey
+# Karalyn Lacey
 
-![Karalyn photo] 
+! [Karalyn photo] 
 (https://www.peoplelab.hks.harvard.edu/wp-content/uploads/2015/12/karayln-lacey-2018.png)
 
-##About Karalyn
+## About Karalyn
 
 Karalyn is a PhD Student in the Jurisprudence and Social Policy 
 Program at UC Berkely and Executive Director of The People Lab at Harvard 
@@ -22,7 +22,7 @@ giving opportunities and interned for two years at Berkeley Law’s Death
 Penalty Clinic reviewing mitigating evidentiary materials pertaining to 
 death penalty cases. Karalyn holds a B.A. in economics from UC Berkeley.
 
-##Karalyn's Research
+## Karalyn's Research
 
 In her reserach as a PhD student, Karalyn is interested in the 
 intersection between public safety systems, actors, and 
