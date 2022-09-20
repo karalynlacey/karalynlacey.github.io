@@ -1,4 +1,4 @@
-# Karalyn's Projeects
+# Karalyn's Projects
 
 ## Computational Social Science Project 1: Reproducibility and GitHub
 
