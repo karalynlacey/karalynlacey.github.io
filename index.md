@@ -1,7 +1,6 @@
 # Karalyn Lacey
 
-![[Karalynphoto]
-(https://www.peoplelab.hks.harvard.edu/wp-content/uploads/2015/12/karayln-lacey-2018.png)]
+![karayln-lacey-2018](https://user-images.githubusercontent.com/113090274/191381659-d567a805-7c05-400b-bcc8-0a36391f855f.png)
 
 ## About Karalyn
 
