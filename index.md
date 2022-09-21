@@ -5,9 +5,9 @@
 ## About Karalyn
 
 Karalyn is a PhD Student in the Jurisprudence and Social Policy 
-Program at UC Berkely and Executive Director of The People Lab at Harvard 
+Program at UC Berkeley and Executive Director of The People Lab at Harvard 
 University. In her role at The People Lab Karalyn works with 
-the Lab’s Faculty Director, Elizabeth Linos, to manage the daily 
+the Lab’s Faculty Director, Dr. Elizabeth Linos, to manage the daily 
 operations of the Lab, coordinate the lab’s strategic 
 direction and partnerships, and design and carry out all stages of 
 the Lab’s research. Karalyn has focused her career conducting and 
@@ -19,7 +19,7 @@ and advancing new safety priorities. Karalyn previously worked at GiveWell
 and Open Philanthropy Project supporting research to evaluate and identify 
 giving opportunities and interned for two years at Berkeley Law’s Death 
 Penalty Clinic reviewing mitigating evidentiary materials pertaining to 
-death penalty cases. Karalyn holds a B.A. in economics from UC Berkeley.
+death penalty cases. Karalyn holds a B.A. in economics with high distinction from UC Berkeley.
 
 ## Karalyn's Research
 
